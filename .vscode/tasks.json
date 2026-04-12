@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run LÖVE",
+            "type": "shell",
+            "command": "& 'C:\\Users\\LOVE\\love.exe' '${workspaceFolder}'",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+# Love2D / Lua
+*.exe
+*.dll
+*.ico
+*.zip
+*.love
+*.pdf
+*.psd
+.vscode/LOVE/
+__MACOSX/
+
+# System
+Thumbs.db
+.DS_Store
+
+# Temporary
+*.tmp
+*.log
